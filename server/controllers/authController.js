@@ -36,6 +36,7 @@ exports.registerUser = async(req,res) => {
             msg : "Server error"
         });
     }
+    console.log("Request body is:", req.body);
 };
 
 
