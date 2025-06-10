@@ -172,4 +172,4 @@ Pull requests and feature suggestions are welcome!
 
 ---
 
-Completed till Step - 4 , start Step - 5
+Completed till Step - 9 (Backend Done), start frontend
